@@ -1,0 +1,8 @@
+-instructions for the project to work on any Pc:
+1.must have mysql.
+2.add my sql 8.0.15 to project (file is in the cd).
+3.type the connecton string project->src->database->mysql->setconnection() (using you loacal instance us and pw)
+4.change image pathes to your images pathes.
+5.must have java fx scene builder.
+
+ 
